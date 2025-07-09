@@ -27,7 +27,7 @@ NestFinder is a full-stack house and room rental platform that helps users find 
 - React Router
 
 ### Backend:
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Security + JWT
 - MySQL
